@@ -1,4 +1,4 @@
 extra:
-  constituency: true
+  is_constituency: true
   region: mid-scotland-and-fife
 title: Stirling

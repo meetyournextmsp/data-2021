@@ -1,4 +1,4 @@
 extra:
-  constituency: true
+  is_constituency: true
   region: central-scotland
 title: Motherwell and Wishaw

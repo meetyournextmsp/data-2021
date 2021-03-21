@@ -1,4 +1,4 @@
 extra:
-  constituency: true
+  is_constituency: true
   region: west-scotland
 title: Greenock and Inverclyde
