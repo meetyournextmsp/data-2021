@@ -1,0 +1,8 @@
+tags:
+  extra_fields:
+    is_constituency:
+      type: boolean
+    is_region:
+      type: boolean
+    region:
+      type: string
