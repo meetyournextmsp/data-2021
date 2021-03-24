@@ -1,0 +1,4 @@
+[build]
+  publish = "out"
+  command = "pip install git+https://github.com/eventtig/eventtig-gitengine@main#egg=eventtig && export PYTHONPATH=$(pwd) && python -m eventtig.cli build . --staticsite out"
+
