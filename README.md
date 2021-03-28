@@ -4,6 +4,10 @@
 
 Go to https://meetyournextmsp.scot/
 
+## To get events as Open data
+
+See https://meetyournextmsp.scot/about
+
 ## To add an event - the easy way
 
 Fill out the form on https://meetyournextmsp.scot/contribute
