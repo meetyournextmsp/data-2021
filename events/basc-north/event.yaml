@@ -6,8 +6,9 @@ description: "Organised by BASC (British Association for Shooting and Conservati
   \ pertaining to field and country sports."
 start: 2021-04-14 19:00
 tags:
-- highlands-and-islands
-- mid-scotland-and-fife
-- north-east-scotland
-title: "for Scotland\u2019s shooting community"
+- national
+#- highlands-and-islands
+#- mid-scotland-and-fife
+#- north-east-scotland
+title: "for Scotland's shooting community (North Scotland)"
 url: https://basc.org.uk/holyrood-election-hustings-for-scotlands-shooting-community/

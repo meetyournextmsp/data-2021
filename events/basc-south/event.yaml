@@ -6,10 +6,11 @@ description: "Organised by BASC (British Association for Shooting and Conservati
   \ pertaining to field and country sports."
 start: 2021-04-15 19:00
 tags:
-- central-scotland
-- glasgow
-- lothian
-- south-scotland
-- west-scotland
-title: "for Scotland\u2019s shooting community"
+- national
+#- central-scotland
+#- glasgow
+#- lothian
+#- south-scotland
+#- west-scotland
+title: "for Scotland's shooting community (South Scotland)"
 url: https://basc.org.uk/holyrood-election-hustings-for-scotlands-shooting-community/
