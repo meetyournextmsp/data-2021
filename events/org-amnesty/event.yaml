@@ -1,10 +1,8 @@
 cancelled: false
 deleted: false
-description: "Open Rights Group will be holding a joint Human and Digital Rights hustings with our friends at Amnesty Scotland. Candidates from the political parties will be in attendance to take our questions, and yours too.\r\n\r\nsubmit a\
-  \ question about human and digital rights in advance: https://action.openrightsgroup.org/submit-your-question-candidates\r\
-  \nOn Youtube: https://youtu.be/zeuntAxpdxI\r\nOr Facebook: https://fb.me/e/2fN1CoxMz"
-start: 2021-04-20 19:00
+description: "Covid-19, Brexit, and the rollout of new technologies present new challenges to our fundamental rights, both on and offline. Voters in Scotland will soon go to the polls to have their say on these issues and many more. But what do the parties have to say about them?\n\nJoin us for a live-streamed candidate hustings, jointly organised by Amnesty Scotland and Open Rights Group Scotland, focused on questioning political parties’ policies on a variety of Human and Digital Rights issues.\n\nFind out where your candidates and parties stand on important issues like the role of the Human Rights Act in Scotland’s pandemic recovery and the use of digital surveillance technologies by Police Scotland."
+start: '2021-04-20 19:00'
 tags:
-- national
-title: Human and Digital Rights hustings
-url: https://scotland.openrightsgroup.org/blog/scottish-elections-the-digital-rights-agenda/
+  - 'national'
+title: 'Human and Digital Rights hustings'
+url: 'https://scotland.openrightsgroup.org/events/2021-digital-rights-hustings/'
