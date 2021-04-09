@@ -3,6 +3,7 @@ description: The data for https://meetyournextmsp.scot/
 githost:
   type: github
   url: meetyournextmsp/data-2021
+  default_branch: main
 tags:
   extra_fields:
     is_constituency:
