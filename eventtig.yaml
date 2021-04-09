@@ -1,3 +1,8 @@
+title: Meet Your Next MSP 2001 Data
+description: The data for https://meetyournextmsp.scot/
+githost:
+  type: github
+  url: meetyournextmsp/data-2021
 tags:
   extra_fields:
     is_constituency:
