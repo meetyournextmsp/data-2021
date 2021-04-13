@@ -1,12 +1,8 @@
 cancelled: false
 deleted: false
-description: "\r\nAction on Pay, Action on Care and Action for Jobs\r\n\r\nJoin us\
-  \ at the Scottish Trade Union Congress Scottish Parliament Election Hustings on\
-  \ Monday 12th April at 6pm.\r\n\r\nCome along to hear from workers across Scotland\
-  \ as they share their stories and ask politicians what they will do to address the\
-  \ challenges facing workers today. "
-start: 2021-04-12 18:00
+description: "Action on Pay, Action on Care and Action for Jobs\n\nJoin us at the Scottish Trade Union Congress Scottish Parliament Election Hustings on Monday 26th April at 6pm.\n\nCome along to hear from workers across Scotland as they share their stories and ask politicians what they will do to address the challenges facing workers today. "
+start: '2021-04-26 18:00'
 tags:
-- national
-title: Scottish Trade Union Congress Scottish Parliament Election Hustings
-url: https://www.eventbrite.co.uk/e/scottish-trade-union-congress-scottish-parliament-election-hustings-tickets-149711572343
+  - 'national'
+title: 'Scottish Trade Union Congress Scottish Parliament Election Hustings'
+url: 'https://www.eventbrite.co.uk/e/scottish-trade-union-congress-scottish-parliament-election-hustings-tickets-149711572343'
